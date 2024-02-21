@@ -7,7 +7,7 @@
 - 👀 I'm interested in Data Science, Machine Learning, AI
 - 📫 How to reach me: senkim1202@gmail.com
 
-### Skills
+### Tech Skills
 ![python](https://img.shields.io/badge/python-f0f8ff?style=for-the-badge&logo=python&logoColor=3776AB)
 ![R](https://img.shields.io/badge/R-f0f8ff?style=for-the-badge&logo=R&logoColor=276DC3)
 ![mysql](https://img.shields.io/badge/mysql-f0f8ff?style=for-the-badge&logo=mysql&logoColor=4479A1)
