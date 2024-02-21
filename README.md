@@ -10,6 +10,7 @@
 ### Skills
 ![python](https://img.shields.io/badge/python-f0f8ff?style=for-the-badge&logo=python&logoColor=3776AB)
 ![R](https://img.shields.io/badge/R-f0f8ff?style=for-the-badge&logo=R&logoColor=276DC3)
+![mysql](https://img.shields.io/badge/mysql-f0f8ff?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![elasticsearch](https://img.shields.io/badge/elasticsearch-f0f8ff?style=for-the-badge&logo=elasticsearch&logoColor=005571)
 ![spring](https://img.shields.io/badge/spring-f0f8ff?style=for-the-badge&logo=spring&logoColor=6DB33F)
 ![logstash](https://img.shields.io/badge/logstash-f0f8ff?style=for-the-badge&logo=logstash&logoColor=005571)
