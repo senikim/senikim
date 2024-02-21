@@ -13,12 +13,15 @@
 ![mysql](https://img.shields.io/badge/mysql-f0f8ff?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![spring](https://img.shields.io/badge/spring-f0f8ff?style=for-the-badge&logo=spring&logoColor=6DB33F)
 ![elasticsearch](https://img.shields.io/badge/elasticsearch-f0f8ff?style=for-the-badge&logo=elasticsearch&logoColor=005571)
-![eclipse](https://img.shields.io/badge/eclipse-f0f8ff?style=for-the-badge&logo=eclipse&logoColor=2C2255)
 ![docker](https://img.shields.io/badge/docker-f0f8ff?style=for-the-badge&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-f0f8ff?style=for-the-badge&logo=AWS&logoColor=232F3E)
+![Linux](https://img.shields.io/badge/Linux-f0f8ff?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Nginx](https://img.shields.io/badge/nginx-f0f8ff?style=for-the-badge&logo=nginx&logoColor=009639)
+![eclipse](https://img.shields.io/badge/eclipse-f0f8ff?style=for-the-badge&logo=eclipse&logoColor=2C2255)
+
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senikim&layout=compact&theme=transparent)](https://github.com/anuraghazra/senikim/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senikim&layout=compact&theme=transparent)](https://github.com/senikim/github-readme-stats)
 
 <!--
 **senikim/senikim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
