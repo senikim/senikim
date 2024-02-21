@@ -12,9 +12,9 @@
 ![R](https://img.shields.io/badge/R-f0f8ff?style=for-the-badge&logo=R&logoColor=276DC3)
 ![mysql](https://img.shields.io/badge/mysql-f0f8ff?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![elasticsearch](https://img.shields.io/badge/elasticsearch-f0f8ff?style=for-the-badge&logo=elasticsearch&logoColor=005571)
+![eclipse](https://img.shields.io/badge/eclipse-f0f8ff?style=for-the-badge&logo=eclipse&logoColor=2C2255)
 ![spring](https://img.shields.io/badge/spring-f0f8ff?style=for-the-badge&logo=spring&logoColor=6DB33F)
-![logstash](https://img.shields.io/badge/logstash-f0f8ff?style=for-the-badge&logo=logstash&logoColor=005571)
-![kibana](https://img.shields.io/badge/kibana-f0f8ff?style=for-the-badge&logo=kibana&logoColor=005571)
+![docker](https://img.shields.io/badge/docker-f0f8ff?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 
 ### Top Languages
