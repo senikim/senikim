@@ -12,6 +12,9 @@
 ![R](https://img.shields.io/badge/R-f0f8ff?style=for-the-badge&logo=R&logoColor=276DC3)
 ![elasticsearch](https://img.shields.io/badge/elasticsearch-f0f8ff?style=for-the-badge&logo=elasticsearch&logoColor=005571)
 ![spring](https://img.shields.io/badge/spring-f0f8ff?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![logstash](https://img.shields.io/badge/logstash-f0f8ff?style=for-the-badge&logo=logstash&logoColor=005571)
+![kibana](https://img.shields.io/badge/kibana-f0f8ff?style=for-the-badge&logo=kibana&logoColor=005571)
+
 
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senikim&layout=compact&theme=transparent)](https://github.com/anuraghazra/senikim/github-readme-stats)
